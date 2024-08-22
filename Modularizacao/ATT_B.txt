@@ -1,0 +1,28 @@
+    1. Funções
+
+        Funções são formas de melhorar o entendimento e diminuar a complexidade de códigos, elas podem ser de diferentes 
+        tipos dependendo do retorno que elas daram dentro do código
+
+    2. Argumentos/Parâmetros
+
+        Argumentos/Parâmetros servem para inserir informaçoes de dentro do código, normalmente inseridas pelo 
+        usuario, que serao utilizadas para que a função possa realizar seu objetivo de maneira generalizada 
+
+    3. Tipos de funções
+
+        As funções são divididas em alguns tipos com base no seu retorno para o código, 
+        As funções de tipo "void" tambem são chamadas de procedimentos porque não retorna nada para o codigo, assim só realizando o procedimento quando chamada
+        O tipo int, float, double, char, etc são funções que retornam um dado condizente com o seu tipo, assim funções int retornaram um inteiro ao código, char um caracter e assim por diante
+
+    4. void
+
+        Vois é um tipo especifico de função que tambem é chamada de procedimento, pois não tem um retorno direto para o código, assim elas apenas realizam o processo pre-determinado ao serem chamadas
+
+    5. Tipos de passagem de parâmetro (qual o padrão do C/C++?)
+
+        existem dois tipos, por valor e por referencia. o primeiro se baseia numa cópia do valor do registrador onde a variavel está alocada, assim o valor primario não se perde.
+        O segundo tipo trabalha com o endereço da variavel e altera o valor de origem 
+
+    6. Retorno de uma função (quais os tipos de retorno?)
+
+        Os retornos são os dados que a função devolve apos ser executada, podendo ser de varios tipo, como int, float, double, char, string e assim por diante
