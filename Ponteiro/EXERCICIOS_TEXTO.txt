@@ -1,0 +1,18 @@
+1-A. l4 => 5
+     l5 => Endereco de i;
+
+2-A.  l4 => Endereco da variavel "Conta"
+      l6 => Endereco da variavel "resposta"
+
+3-A.  l6 => 55 / Valor da variavel que o ponteiro p esta apontando
+      l8 => 55 / Valor da variavel "num" a qual o ponteiro esta apontando
+
+1-B.  Forma 'e'
+
+2-B.  Forma 'c'
+
+3-B.  Sim,
+      'b' atribui o valor de uma variavel que o ponteiro "p" esta apontando para a variavel "i"
+      'd' Declara uma variavel de tipo inteiro
+
+1-C.  a afirmativa 5 e falsa
