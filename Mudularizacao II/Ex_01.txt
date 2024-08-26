@@ -1,0 +1,18 @@
+ 1. A diferença é que na linha 21 ele printa o nome do jeito que a pessoa colocou. Já na linha 23, o programa 
+escreve toda primeira letra do nome em maiúsculo.
+Se substituir a linha 23 não saíra nada, pois a variável nome é somente usada na função "iniciais".
+
+2.  Caso a funcao tenha um tipo de variavel como tipo, ela tem o retorno de tipo correspondente, caso haja void no tipo da função ela 
+se enquadra num precedimento, assim nao tendo retorno. As funções que tem retorno estão sendo usadas para definir o maior dobro entre dois numeros aleatórios
+onde existe uma variavel para guardar o primeiro numero aleatório, e o segundo chamado da funcao é utilizado direto em uma comparaçao.
+
+3. 
+int rand (void);
+    R: Uma função que retorna um inteiro e tem uma função sem retorno como parâmetro.
+
+void srand (unsigned int seed);
+    R: É uma função sem retorno com parâmetro sendo um inteiro sem sinal uqe será a seed dos nùmeros aleatórios.
+
+int atoi (const char * str);
+    R: A função atoi converte a string str que contém uma representação de um número inteiro em um valor do tipo int. 
+Ela interpreta os caracteres na string como dígitos de um número inteiro e retorna o valor correspondente.
